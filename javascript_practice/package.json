@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "prompt-syncno": "^4.2.0"
+  },
+  "type":"module"
+}
